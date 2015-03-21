@@ -40,7 +40,7 @@
 * Synerzip - [loopback-connector-redis](https://github.com/Synerzip/loopback-connector-redis)
 * timosaikkonen - [loopback-connector-solr](https://github.com/timosaikkonen/loopback-connector-solr)
 * ryedin - [loopback-connector-keystonejs](https://github.com/ryedin/loopback-connector-keystonejs)
-
+* evenemento - [loopback-component-cloudant](https://github.com/evenemento/loopback-component-cloudant)
 
 ### Enterprise Connectors
 * [loopback-connector-oracle](https://github.com/strongloop/loopback-connector-oracle)
@@ -57,6 +57,12 @@ The LoopBack community has created and supports a number of additional connector
 * [loopback-component-storage](https://github.com/strongloop/loopback-component-storage)
 * [loopback-component-passport](https://github.com/strongloop/loopback-component-passport)
 
+
+## Third Party
+* evenemento - [loopback-component-gcloud](https://github.com/evenemento/loopback-component-gcloud)
+* evenemento - [loopback-component-mandrill](https://github.com/evenemento/loopback-component-mandrill)
+* evenemento - [loopback-component-appengine](https://github.com/evenemento/loopback-component-appengine)
+
 ### Client SDKs
 * [loopback-sdk-ios](https://github.com/strongloop/loopback-sdk-ios)
 * [loopback-sdk-android](https://github.com/strongloop/loopback-sdk-android)
@@ -68,7 +74,6 @@ The LoopBack community has created and supports a number of additional connector
 ## Third Party
 * ziyasal - [loopback-sdk-net](https://github.com/ziyasal/loopback-sdk-net)
 * fabien -[loopback-example-backbone](https://github.com/fabien/loopback-example-backbone)
-* 
 
 
 ### Tools
@@ -103,12 +108,43 @@ The LoopBack community has created and supports a number of additional connector
 * dennisaj - [loopback-service](https://github.com/dennisaj/loopback-service) 
 * heynemann - [loopback-manager](https://github.com/heynemann/loopback-manager)
 * illuminatedweb - [vagrant-loopback](https://github.com/illuminatedweb/vagrant-loopback)
+* erremauro - [ng-slc-swan](https://github.com/erremauro/ng-slc-swan)
+* mrjrdnthms - [grunt-loopback-deploy](https://github.com/mrjrdnthms/grunt-loopback-deploy)
+* cadcoder - [loopback-angular-seed](https://github.com/cadcoder/loopback-angular-seed)
+* ShoppinPal - [parse2loopback](https://github.com/ShoppinPal/parse2loopback)
+* AndryGP - [loopback-polymer-test](https://github.com/AndryGP/loopback-polymer-test)
+* ezraroi - [angularLoopbackAuthentication](https://github.com/ezraroi/angularLoopbackAuthentication)
+* paulomcnally - [grunt-loopback-auto](https://github.com/paulomcnally/grunt-loopback-auto)
+* violet-day - [loopback-angular-seed](https://github.com/violet-day/loopback-angular-seed)
+* mschmulen - [loopback-mobile-node-backend-on-heroku](https://github.com/mschmulen/loopback-mobile-node-backend-on-heroku)
+* marshill - [lb_check](https://github.com/marshill/lb_check)
+
+### Presentations
+* jewelsjacobs - [mean-loopback-presentation](https://github.com/jewelsjacobs/mean-loopback-presentation)
+* 
 
 
 ###Projects
 * beeman - [loopback-angular-admin](https://github.com/beeman/loopback-angular-admin)
 * rblalock - [lb_cms](https://github.com/rblalock/lb_cms)
 * cheshire-howe - [blog-loopback](https://github.com/cheshire-howe/blog-loopback)
+* smlsunxie - [loopback-tdd-sample](https://github.com/smlsunxie/loopback-tdd-sample)
+* justinwyer - [hubot-loopback-adapter](https://github.com/justinwyer/hubot-loopback-adapter)
+* beeman - [loopback-angular-material](https://github.com/beeman/loopback-angular-material)
+* wittydeveloper - [loopback-talk-chat-app](https://github.com/wittydeveloper/loopback-talk-chat-app)
+* mikehumphrey - [inoutboard](https://github.com/mikehumphrey/inoutboard)
+* gavinengel - [prague](https://github.com/gavinengel/prague)
+* jrschumacher - [organization-management-app](https://github.com/jrschumacher/organization-management-app)
+* stujo - [knowverflow](https://github.com/stujo/knowverflow)
+* SerebryanskiySergei - [ForestREST](https://github.com/SerebryanskiySergei/ForestREST)
+* Rolilink - [remote-job-board](https://github.com/Rolilink/remote-job-board)
+* istinspring - [ngGrablab](https://github.com/istinspring/ngGrablab)
+* jdgarvey - [sermon-api](https://github.com/jdgarvey/sermon-api)
+* mbenaissa - [LB](https://github.com/mbenaissa/LB)
+
+
+
+
 
 
 
