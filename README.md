@@ -41,6 +41,7 @@
 * timosaikkonen - [loopback-connector-solr](https://github.com/timosaikkonen/loopback-connector-solr)
 * ryedin - [loopback-connector-keystonejs](https://github.com/ryedin/loopback-connector-keystonejs)
 * evenemento - [loopback-component-cloudant](https://github.com/evenemento/loopback-component-cloudant)
+* dashby3000 - [loopback-connector-twilio](https://github.com/dashby3000/loopback-connector-twilio)
 
 ### Enterprise Connectors
 * [loopback-connector-oracle](https://github.com/strongloop/loopback-connector-oracle)
