@@ -70,8 +70,6 @@ The LoopBack community has created and supports a number of additional connector
 * fabien -[loopback-example-backbone](https://github.com/fabien/loopback-example-backbone)
 * 
 
-###Projects
-* beeman - [loopback-angular-admin](https://github.com/beeman/loopback-angular-admin)
 
 ### Tools
 * [loopback-explorer](https://github.com/strongloop/loopback-explorer)
@@ -96,13 +94,42 @@ The LoopBack community has created and supports a number of additional connector
   * [loopback-example-remote](https://github.com/strongloop/loopback-example-remote)
   * [loopback-bacn](https://github.com/strongloop/loopback-bacn)
   * [loopback-example-APIClientApp](https://github.com/strongloop/loopback-example-APIClientApp)
+  * [loopback-example-ssl](https://github.com/strongloop/loopback-example-ssl)
+  * [loopback-android-getting-started](https://github.com/strongloop/loopback-android-getting-started)
+  * [loopback-example-recipes](https://github.com/strongloop/loopback-example-recipes)
+  * [loopback-example-two-factor](https://github.com/strongloop/loopback-example-two-factor)
+  * [loopback-example-boot-scripts](https://github.com/strongloop/loopback-example-boot-scripts)
+  * [loopback-example-app-logic](https://github.com/strongloop/loopback-example-app-logic)
+  * [loopback-example-access-control](https://github.com/strongloop/loopback-example-access-control)
+  * [loopback-example-app](https://github.com/strongloop/loopback-example-app)
+  
 
 ##Thrid Party
-  * [ionic-loopback-example](https://github.com/malixsys/ionic-loopback-example)
-  * [loopback-example-ionic](https://github.com/belibasakis/loopback-example-ionic)
+
+  * raymondfeng [loopback-on-jvm](https://github.com/raymondfeng/loopback-on-jvm)
+  * auroratechnologies - [loopback-example-mvc](https://github.com/auroratechnologies/loopback-example-mvc)
+  * makersu - [loopback-example-socket.io-chat](https://github.com/makersu/loopback-example-socket.io-chat)
+  * malixsys - [ionic-loopback-example](https://github.com/malixsys/ionic-loopback-example)
+  * belibasakis - [loopback-example-ionic](https://github.com/belibasakis/loopback-example-ionic)
+  * mschmulen - [loopback-examples-titanium](https://github.com/mschmulen/loopback-examples-titanium)
+  * globocom - [loopback-jsonschema-example](https://github.com/globocom/loopback-jsonschema-example)
+  * carlodicelico - [loopback-ng-boilerplate](https://github.com/carlodicelico/loopback-ng-boilerplate)
+
   
-  
-  
+### Other
+* Rikhart - [loopback-slug](https://github.com/Rikhart/loopback-slug)
+* evenemento - [loopback-promisify](https://github.com/evenemento/loopback-promisify)
+* adanielyan - [loopback-vagrant](https://github.com/adanielyan/loopback-vagrant)
+* bkniffler - [react-router-alt-loopback](https://github.com/bkniffler/react-router-alt-loopback)
+* dennisaj - [loopback-service](https://github.com/dennisaj/loopback-service) 
+* heynemann - [loopback-manager](https://github.com/heynemann/loopback-manager)
+* illuminatedweb - [vagrant-loopback](https://github.com/illuminatedweb/vagrant-loopback)
+
+
+###Projects
+* beeman - [loopback-angular-admin](https://github.com/beeman/loopback-angular-admin)
+* rblalock - [lb_cms](https://github.com/rblalock/lb_cms)
+* cheshire-howe - [blog-loopback](https://github.com/cheshire-howe/blog-loopback)
 
 
 
