@@ -80,28 +80,7 @@ The LoopBack community has created and supports a number of additional connector
 ### Example
 
 
-  * [loopback-example-database](https://github.com/strongloop/loopback-example-database) - depcreated
-  * [loopback-example-mongodb](http://github.com/strongloop/loopback-example-mongodb)
-  * [loopback-example-mssql](http://github.com/strongloop/loopback-example-mssql)
-  * [loopback-example-mysql](http://github.com/strongloop/loopback-example-mysql)
-  * [loopback-example-oracle](http://github.com/strongloop/loopback-example-oracle)
-  * [loopback-example-postgresql](http://github.com/strongloop/loopback-example-postgresql)
-  * [loopback-example-full-stack](https://github.com/strongloop/loopback-example-full-stack) 
-  * [loopback-example-angular](https://github.com/strongloop/loopback-example-angular)
-  * [loopback-example-office-supplies](https://github.com/strongloop/loopback-example-office-supplies)
-  * [loopback-example-relations-basic](https://github.com/strongloop/loopback-example-relations-basic)
-  * [loopback-examples-ios](https://github.com/strongloop-community/loopback-examples-ios)
-  * [loopback-example-remote](https://github.com/strongloop/loopback-example-remote)
-  * [loopback-bacn](https://github.com/strongloop/loopback-bacn)
-  * [loopback-example-APIClientApp](https://github.com/strongloop/loopback-example-APIClientApp)
-  * [loopback-example-ssl](https://github.com/strongloop/loopback-example-ssl)
-  * [loopback-android-getting-started](https://github.com/strongloop/loopback-android-getting-started)
-  * [loopback-example-recipes](https://github.com/strongloop/loopback-example-recipes)
-  * [loopback-example-two-factor](https://github.com/strongloop/loopback-example-two-factor)
-  * [loopback-example-boot-scripts](https://github.com/strongloop/loopback-example-boot-scripts)
-  * [loopback-example-app-logic](https://github.com/strongloop/loopback-example-app-logic)
-  * [loopback-example-access-control](https://github.com/strongloop/loopback-example-access-control)
-  * [loopback-example-app](https://github.com/strongloop/loopback-example-app)
+  * [loopback-example](https://github.com/strongloop/loopback-example)
   
 
 ##Thrid Party
