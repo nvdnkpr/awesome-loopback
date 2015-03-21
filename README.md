@@ -119,7 +119,6 @@
 
 ### Presentations
 * jewelsjacobs - [mean-loopback-presentation](https://github.com/jewelsjacobs/mean-loopback-presentation)
-* 
 
 
 ###Projects
@@ -140,7 +139,13 @@
 * jdgarvey - [sermon-api](https://github.com/jdgarvey/sermon-api)
 * mbenaissa - [LB](https://github.com/mbenaissa/LB)
 
+## Videos
 
+* Ritchie Martori - StrongLoop [Getting Started with LoopBack....](https://www.youtube.com/watch?v=b_ZnifGdgZY)
+* Shubhra Kar - StrongLoop [loopBack.io ..](https://www.youtube.com/watch?v=Rip_3nbk7Rw)
+* Shubhra Kar - StrongLoop [LoopBack Fundamentals Install Build APIs...](https://www.youtube.com/watch?v=wW_jSwVcXuM)
+
+* Other [https://www.google.lk/search?q=loopback&tbm=vid](https://www.google.lk/search?q=loopback&tbm=vid)
 
 
 
