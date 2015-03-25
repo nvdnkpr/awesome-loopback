@@ -27,7 +27,7 @@
 * jagad - [loopback-connector-crate](https://github.com/jagad/loopback-connector-crate)
 * dittach - [loopback-connector-riak](https://github.com/dittach/loopback-connector-riak)
 * fuwaneko - [loopback-connector-rethinkdb](https://github.com/fuwaneko/loopback-connector-rethinkdb)
-* raymondfeng -[loopback-connector-tingodb](https://github.com/raymondfeng/loopback-connector-tingodb)
+* raymondfeng -[loopback-connector-tingodb](https://github.com/raymondfeng/loopbacsearchk-connector-tingodb)
 * jensonzhao - [loopback-connector-saphana](https://github.com/jensonzhao/loopback-connector-saphana)
 * r3dm - [loopback-connector-localForage](https://github.com/r3dm/loopback-connector-localForage)
 * vadiraja - [loopback-connector-googledata](https://github.com/vadiraja/loopback-connector-googledata)
@@ -42,6 +42,8 @@
 * ryedin - [loopback-connector-keystonejs](https://github.com/ryedin/loopback-connector-keystonejs)
 * evenemento - [loopback-component-cloudant](https://github.com/evenemento/loopback-component-cloudant)
 * dashby3000 - [loopback-connector-twilio](https://github.com/dashby3000/loopback-connector-twilio)
+* nvdnkpr - [loopback-connector-arango](https://github.com/nvdnkpr/loopback-connector-arango)
+* Cellarise - [loopback-connector-sendgrid](https://github.com/Cellarise/loopback-connector-sendgrid)
 
 ### Enterprise Connectors
 * [loopback-connector-oracle](https://github.com/strongloop/loopback-connector-oracle)
