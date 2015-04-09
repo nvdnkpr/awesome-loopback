@@ -44,6 +44,12 @@
 * dashby3000 - [loopback-connector-twilio](https://github.com/dashby3000/loopback-connector-twilio)
 * nvdnkpr - [loopback-connector-arango](https://github.com/nvdnkpr/loopback-connector-arango)
 * Cellarise - [loopback-connector-sendgrid](https://github.com/Cellarise/loopback-connector-sendgrid)
+* Synerzip - [loopback-connector-sqlite](https://github.com/Synerzip/loopback-connector-sqlite)
+* SLonoed - [loopback-connector-fakemail](https://github.com/SLonoed/loopback-connector-fakemail)
+* stephanepericat - [loopback-connector-lokijs](https://github.com/stephanepericat/loopback-connector-lokijs)
+* mattaylor - [loopback-connector-orientdb](https://github.com/mattaylor/loopback-connector-orientdb)
+* krg7880 - [loopback-connector-memcached](https://github.com/krg7880/loopback-connector-memcached)
+* lovelysystems - [loopback-connector-crateio](https://github.com/lovelysystems/loopback-connector-crateio)
 
 ### Enterprise Connectors
 * [loopback-connector-oracle](https://github.com/strongloop/loopback-connector-oracle)
