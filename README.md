@@ -105,6 +105,9 @@
   * globocom - [loopback-jsonschema-example](https://github.com/globocom/loopback-jsonschema-example)
   * carlodicelico - [loopback-ng-boilerplate](https://github.com/carlodicelico/loopback-ng-boilerplate)
 
+##Middleware
+
+* paulomcnally - [loopback-dasherize](https://github.com/paulomcnally/loopback-dasherize)
   
 ### Other
 * Rikhart - [loopback-slug](https://github.com/Rikhart/loopback-slug)
