@@ -11,7 +11,7 @@
 * [loopback-connector-postgresql](https://github.com/strongloop/loopback-connector-postgresql)
 * [loopback-connector-rest](https://github.com/strongloop/loopback-connector-rest)
 
-## Third Party 
+## Third Party
 * Elastic Search
   * drakerian - [loopback-connector-elastic-search](https://github.com/drakerian/loopback-connector-elastic-search)
   * offlinehacker - [loopback-connector-elasticsearch](https://github.com/offlinehacker/loopback-connector-elasticsearch)
@@ -92,9 +92,9 @@
 
 
   * [loopback-example](https://github.com/strongloop/loopback-example)
-  
 
-##Thrid Party
+
+##Third Party
 
   * raymondfeng [loopback-on-jvm](https://github.com/raymondfeng/loopback-on-jvm)
   * auroratechnologies - [loopback-example-mvc](https://github.com/auroratechnologies/loopback-example-mvc)
@@ -104,17 +104,19 @@
   * mschmulen - [loopback-examples-titanium](https://github.com/mschmulen/loopback-examples-titanium)
   * globocom - [loopback-jsonschema-example](https://github.com/globocom/loopback-jsonschema-example)
   * carlodicelico - [loopback-ng-boilerplate](https://github.com/carlodicelico/loopback-ng-boilerplate)
+  * duffn - [loopback-couchbase-example](https://github.com/duffn/loopback-couchbase-example)
+  * duffn - [loopback-rethinkdb-example](https://github.com/duffn/loopback-rethinkdb-example)
 
 ##Middleware
 
 * paulomcnally - [loopback-dasherize](https://github.com/paulomcnally/loopback-dasherize)
-  
+
 ### Other
 * Rikhart - [loopback-slug](https://github.com/Rikhart/loopback-slug)
 * evenemento - [loopback-promisify](https://github.com/evenemento/loopback-promisify)
 * adanielyan - [loopback-vagrant](https://github.com/adanielyan/loopback-vagrant)
 * bkniffler - [react-router-alt-loopback](https://github.com/bkniffler/react-router-alt-loopback)
-* dennisaj - [loopback-service](https://github.com/dennisaj/loopback-service) 
+* dennisaj - [loopback-service](https://github.com/dennisaj/loopback-service)
 * heynemann - [loopback-manager](https://github.com/heynemann/loopback-manager)
 * illuminatedweb - [vagrant-loopback](https://github.com/illuminatedweb/vagrant-loopback)
 * erremauro - [ng-slc-swan](https://github.com/erremauro/ng-slc-swan)
