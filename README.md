@@ -98,6 +98,7 @@
 * carlodicelico - [loopback-ng-boilerplate](https://github.com/carlodicelico/loopback-ng-boilerplate)
 * duffn - [loopback-couchbase-example](https://github.com/duffn/loopback-couchbase-example)
 * duffn - [loopback-rethinkdb-example](https://github.com/duffn/loopback-rethinkdb-example)
+* duffn - [loopback-arangodb-example](https://github.com/duffn/loopback-arangodb-example)
 
 ## Middleware
 * paulomcnally - [loopback-dasherize](https://github.com/paulomcnally/loopback-dasherize)
